@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Program4
+class Fourth
 {
 	public static void main(String args[]) throws IOException
 	{
