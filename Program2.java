@@ -1,11 +1,11 @@
 import java.io.*;
 import java.util.*;
-class Program2
+class Second
 {
 	public static void main(String args[]) throws IOException
 	{
-		int n=3;
-		double n1=3;
+		int n=28;
+		double n1=07;
 		System.out.println(n);
     System.out.println(n1);
 	}
