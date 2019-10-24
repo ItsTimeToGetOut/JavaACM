@@ -1,12 +1,12 @@
 import java.io.*;
 import java.util.*;
-class Program1
+class Shubhamprogram1
 {
 	public static void main(String args[])throws IOException
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Gimme a number");
-		int i=sc.nextInt();
-		System.out.println("Bruh the number you gave me was "+i);
+		System.out.println("ENTER A NUMBER!!!!");
+		int Num=sc.nextInt();
+		System.out.println("THE NO. ENTERED WAS: "+Num);
 	}
 }
