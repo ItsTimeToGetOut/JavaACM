@@ -4,7 +4,7 @@ class Program2
 {
 	public static void main(String args[]) throws IOException
 	{
-		int n=3;
+		int n=4;
 		double n1=3;
 		System.out.println(n);
     System.out.println(n1);
