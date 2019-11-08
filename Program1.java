@@ -5,8 +5,8 @@ class Program1
 	public static void main(String args[])throws IOException
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Gimme a number");
+		System.out.println("Hey! type a number=");
 		int i=sc.nextInt();
-		System.out.println("Bruh the number you gave me was "+i);
+		System.out.println("The number you entered was "+i);
 	}
 }
