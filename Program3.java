@@ -8,6 +8,6 @@ Scanner sc=new Scanner(System.in);
 int n=0;
 float n1=0.0f;
 if(n==n1)System.out.println("equal");
-else System.out.println("not equal");
+else System.out.println("unequal");
 }
 }
